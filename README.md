@@ -1,2 +1,2 @@
 # Week-1
-Week 1 for FNB App Academy
+Week 1 - FNB App Academy
